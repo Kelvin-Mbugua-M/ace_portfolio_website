@@ -1,0 +1,6 @@
+#thispoint > * ,#thispoint{
+    overflow-x: hidden;
+}
+.this-text{
+    background: #000;
+}
