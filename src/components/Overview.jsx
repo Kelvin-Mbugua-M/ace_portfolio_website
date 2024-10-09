@@ -6,9 +6,9 @@ const Star = ({ value }) => {
   let children = [];
   for (let i = 0; i < value; i++) {
     children.push(
-      <span>
+      <>
         <BsStar className="text-yellow-400 mr-1" />{" "}
-      </span>
+      </>
     );
   }
   return (
