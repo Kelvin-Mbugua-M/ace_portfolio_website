@@ -368,22 +368,27 @@ const sdlcData = {
     {
       name: "Jane D.",
       review:
-        "Working with ace developers transformed our online presence! Their attention to detail and understanding of our needs were impressive."
+        "Working with ace developers transformed our online presence! Their attention to detail and understanding of our needs were impressive.",
+        star: 3 ,
     },
     {
       name: "Mark S.",
       review:
-        "The team delivered on time and exceeded our expectations. Our new software solution is robust and user-friendly!"
+        "The team delivered on time and exceeded our expectations. Our new software solution is robust and user-friendly!",
+        star:5,
     },
     {
       name: "Linda T.",
       review:
-        "I highly recommend ace developers. Their systematic approach made the development process seamless and enjoyable."
+        "I highly recommend ace developers. Their systematic approach made the development process seamless and enjoyable.",
+        star:5,
+
     },
     {
       name: "David R.",
       review:
-        "Excellent support and maintenance! The team is always quick to respond to our questions and provides effective solutions."
+        "Excellent support and maintenance! The team is always quick to respond to our questions and provides effective solutions.",
+        star:4 ,
     }
   ]
 };
